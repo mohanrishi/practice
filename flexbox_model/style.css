@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+}
+#mainBox{
+display: flex;
+flex-direction:row;
+align-items:end;
+width: 75vw;
+height: 75vh;
+border: 2px solid black;
+}
+#blue{
+    height: 5%;
+    background-color: blue;
+}
+#yellow{
+    height: 5%;
+    background-color: yellow;
+}
+#orange{
+    height: 5%;
+    background-color: orangered;
+}
+#black{
+    height: 5%;
+    background-color: rgb(26, 16, 12);
+    color: aliceblue;
+}
